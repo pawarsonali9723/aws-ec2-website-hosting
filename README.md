@@ -18,6 +18,7 @@ This project demonstrates how to host a static website on an AWS EC2 instance us
 
 ## 🌐 Output
 Website successfully hosted and accessible through public IP address.
+Live URL: http://13.204.252.101/
 
 ## 👩‍💻 Author
 Sonali Pawar
